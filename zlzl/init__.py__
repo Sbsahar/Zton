@@ -30,7 +30,7 @@ zedversion = "3.3.4"
 
 # إعداد عنوان المستودع
 if Config.UPSTREAM_REPO == "ZThon-Bot":
-    UPSTREAM_REPO_URL = "https://github.com/ZThon-Bot/ZTele"
+    UPSTREAM_REPO_URL = "https://github.com/Sbsahar/Zton.git"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
 
